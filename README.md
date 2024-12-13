@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: using the `undefined` value in calculations. The `undefined` value represents a value that hasn't been defined, and attempting to use it will result in a runtime exception. The solution shows how to handle this error using pattern matching and potentially providing a default value.
